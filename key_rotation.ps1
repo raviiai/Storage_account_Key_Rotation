@@ -1,8 +1,8 @@
-https://medium.com/@saurabh.dasgupta1/implementing-a-robust-key-rotation-solution-for-azure-storage-accounts-and-azure-cosmos-db-937ae6932c59
+# https://medium.com/@saurabh.dasgupta1/implementing-a-robust-key-rotation-solution-for-azure-storage-accounts-and-azure-cosmos-db-937ae6932c59
 
-https://faun.pub/automate-the-rotation-of-authentication-credentials-in-azure-b4731295de8f
+# https://faun.pub/automate-the-rotation-of-authentication-credentials-in-azure-b4731295de8f
 
-https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal
+# https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal
 
 
 ###########################
