@@ -5,3 +5,5 @@ variable "location" {}
 variable "automation_account_name" {}
 
 variable "runbook_name" {}
+
+variable "subscription_id" {}
