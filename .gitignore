@@ -1,0 +1,33 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform/
+.terraform.lock.hcl
+
+# Terragrunt files
+*.tgz
+terragrunt.hcl
+*.terragrunt-cache
+
+# Local environment files
+*.tfplan
+*.zip
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.bak
+
+# Ignore secrets
+*.pem
+*.key
+
+# Ignore any local override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
